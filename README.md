@@ -1,6 +1,6 @@
 # yii2-yee-auth
 
-##Yee CMS - Auth Module
+##Yee CMS - Auth Module use in Yee-Core-Rest
 
 ####Frontend authorization module
 
@@ -14,13 +14,13 @@ Installation
 Either run
 
 ```
-composer require --prefer-dist yeesoft/yii2-yee-auth "~0.1.0"
+composer require --prefer-dist rudderrave/yii2-yee-auth "dev-master"
 ```
 
 or add
 
 ```
-"yeesoft/yii2-yee-auth": "~0.1.0"
+"rudderrave/yii2-yee-auth": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
@@ -29,7 +29,7 @@ to the require section of your `composer.json` file.
 Run migrations
 
 ```php
-yii migrate --migrationPath=@vendor/yeesoft/yii2-yee-auth/migrations/
+yii migrate --migrationPath=@vendor/rudderrave/yii2-yee-auth/migrations/
 ```
 
 Configuration
@@ -65,8 +65,3 @@ Configuration
     ],
 ],
 ```
-
-Screenshots
--------  
-
-[Flickr - Yee CMS Post Module](https://www.flickr.com/photos/134050409@N07/sets/72157656324703598)
