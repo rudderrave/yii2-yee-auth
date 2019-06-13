@@ -1,17 +1,17 @@
 {
-  "name": "yeesoft/yii2-yee-auth",
-  "description": "Authorization Module For Yee CMS",
+  "name": "rudderrave/yii2-yee-auth",
+  "description": "Authorization Module For Yee CMS use rest authorization",
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Taras Makitra",
-      "email": "makitrataras@gmail.com"
+      "name": "Rave",
+      "email": "rudder.rave@gmail.com"
     }
   ],
   "require": {
     "yiisoft/yii2-authclient": "~2.1.0",
-    "yeesoft/yii2-yee-core": "~0.1.0",
-    "yeesoft/yii2-yee-user": "~0.1.0"
+    "rudderrave/yii2-yee-core-rest": "dev-master",
+    "rudderrave/yii2-yee-user": "~0.1.0"
   },
   "autoload": {
     "psr-4": {
