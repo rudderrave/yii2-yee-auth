@@ -1,10 +1,11 @@
 <?php
 
 /**
- * @link http://www.yee-soft.com/
- * @copyright Copyright (c) 2015 Taras Makitra
+ * @link email:rudder.rave@gmail.com
+ * @copyright Copyright (c) 2019 Rave
  * @license http://www.apache.org/licenses/LICENSE-2.0
  */
+
 
 namespace yeesoft\auth;
 
@@ -15,7 +16,7 @@ use yeesoft\models\User;
 /**
  * Auth Module For Yee CMS
  *
- * @author Taras Makitra <makitrataras@gmail.com>
+ * @author Rave <rudder.rave@gmail.com>
  */
 class AuthModule extends \yii\base\Module
 {

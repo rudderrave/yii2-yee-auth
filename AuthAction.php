@@ -1,7 +1,8 @@
 <?php
+
 /**
- * @link http://www.yee-soft.com/
- * @copyright Copyright (c) 2015 Taras Makitra
+ * @link email:rudder.rave@gmail.com
+ * @copyright Copyright (c) 2019 Rave
  * @license http://www.apache.org/licenses/LICENSE-2.0
  */
 
@@ -11,7 +12,10 @@ use Yii;
 use yii\base\Exception;
 
 /**
- * @author Taras Makitra <makitrataras@gmail.com>
+ * Class AuthAction
+ *
+ * @package yeesoft\auth
+ * @author Rave <rudder.rave@gmail.com>
  */
 class AuthAction extends \yii\authclient\AuthAction
 {
