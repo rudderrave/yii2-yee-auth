@@ -11,7 +11,7 @@
   "require": {
     "yiisoft/yii2-authclient": "~2.1.0",
     "rudderrave/yii2-yee-core-rest": "dev-master",
-    "rudderrave/yii2-yee-user": "~0.1.0"
+    "rudderrave/yii2-yee-user": "dev-master"
   },
   "autoload": {
     "psr-4": {
